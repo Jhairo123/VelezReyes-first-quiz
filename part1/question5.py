@@ -40,7 +40,6 @@ ADD COLUMN favorite_food_id INTEGER;
 ALTER TABLE people
 ADD COLUMN favorite_food_id INTEGER;
 
-
 """
 
 # Part 5.C:
@@ -53,6 +52,5 @@ SELECT animals.name, favorite_foods.name
 FROM animals
 INNER JOIN favorite_foods ON animals.favorite_food_id = favorite_foods.food_id
 WHERE favorite_foods.vegetarian = 1;
-
 
 """
