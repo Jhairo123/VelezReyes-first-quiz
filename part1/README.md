@@ -23,7 +23,7 @@ pip install pytest
 ```
 
 *If you ever need to close your terminal and come back later:* You can enter the virtual environment from the same
-directory by typing `source venv/bin/activate`.
+directory by typing `venv/Scripts/activate`.
 
 # How to Work on the Questions
 
