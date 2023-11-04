@@ -17,8 +17,8 @@ To get started run the below commands. They will create a new Python3 virtual en
 install the pytest testing library.
 
 ```
-python3 -m venv venv
-source venv/bin/activate 
+python -m venv venv
+venv/Scripts/activate          
 pip install pytest
 ```
 
