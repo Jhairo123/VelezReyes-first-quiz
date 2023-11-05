@@ -22,7 +22,8 @@ Utilizar consultas parametrizadas o un ORM al interactuar con la base de datos p
 ### Diseño Inseguro (A04):
 Realizar revisiones de seguridad del diseño para identificar y abordar riesgos relacionados con fallas de diseño en la arquitectura de tu aplicación.
 Implementar un proceso de desarrollo seguro desde el principio para garantizar que la seguridad esté integrada en el ciclo de vida de desarrollo.
-####Configuración de Seguridad Incorrecta (A05):
+
+### Configuración de Seguridad Incorrecta (A05):
 Realizar revisiones de configuración en la infraestructura de Kubernetes y en todos los componentes para evitar configuraciones incorrectas que puedan exponer el sistema.
 
 ### Componentes Vulnerables y Desactualizados (A06):
